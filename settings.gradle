@@ -1,0 +1,4 @@
+include ':mainlibpicker'
+include ':sublibimagepicker'
+//include ':app'
+rootProject.name = "TestLib"
